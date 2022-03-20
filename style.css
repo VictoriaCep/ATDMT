@@ -1,0 +1,100 @@
+body{
+    background-color: #F7F6F4;
+}
+h1{
+    position: absolute;
+    width: 460px;
+    height: 34px;
+    left: 15px;
+    top: 0px;
+    margin-top: 5px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    color: #FB7749;
+}
+.init{
+    position: absolute;
+    width: 71px;
+    height: 24px;
+    left: 1548px;
+    top: 5px;
+    margin-top: 15px;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+
+    color: #000000;
+}
+.blog{
+    position: absolute;
+    width: 52px;
+    height: 24px;
+    left: 1620px;
+    top: 5px;
+    margin-top: 15px;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+
+    color: #000000;
+}
+.pryect{
+    position: absolute;
+    width: 106px;
+    height: 24px;
+    left: 1682px;
+    top: 5px;
+    margin-top: 15px;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+
+    color: #000000;
+}
+.abt{
+    position: absolute;
+    width: 103px;
+    height: 24px;
+    left: 1795px;
+    top: 5px;
+    margin-top: 15px;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+
+    color: #000000;
+}
+.qte{
+    position: absolute;
+    width: 598px;
+    height: 256px;
+    left: 65px;
+    top: 307px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+
+    color: #000000;
+}
+.iluhome{
+    position: absolute;
+    width: 573px;
+    height: 410px;
+    left: 724px;
+    top: 223px;
+
+}
