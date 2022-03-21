@@ -3,15 +3,15 @@ body{
 }
 h1{
     position: absolute;
-    width: 460px;
+    width: 860px;
     height: 34px;
     left: 15px;
-    top: 0px;
+    top: 20px;
     margin-top: 5px;
     font-family: 'Playfair Display';
     font-style: normal;
     font-weight: 900;
-    font-size: 48px;
+    font-size: 78px;
     color: #FB7749;
 }
 .init{
@@ -19,12 +19,12 @@ h1{
     width: 71px;
     height: 24px;
     left: 1548px;
-    top: 5px;
+    top: 35px;
     margin-top: 15px;
     font-family: 'Playfair Display';
     font-style: italic;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 25px;
     line-height: 32px;
 
     color: #000000;
@@ -34,12 +34,12 @@ h1{
     width: 52px;
     height: 24px;
     left: 1620px;
-    top: 5px;
+    top: 35px;
     margin-top: 15px;
     font-family: 'Playfair Display';
     font-style: italic;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 25px;
     line-height: 32px;
 
     color: #000000;
@@ -49,12 +49,12 @@ h1{
     width: 106px;
     height: 24px;
     left: 1682px;
-    top: 5px;
+    top: 35px;
     margin-top: 15px;
     font-family: 'Playfair Display';
     font-style: italic;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 25px;
     line-height: 32px;
 
     color: #000000;
@@ -64,23 +64,21 @@ h1{
     width: 103px;
     height: 24px;
     left: 1795px;
-    top: 5px;
+    top: 35px;
     margin-top: 15px;
     font-family: 'Playfair Display';
     font-style: italic;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 25px;
     line-height: 32px;
-
     color: #000000;
 }
 .qte{
     position: absolute;
     width: 598px;
     height: 256px;
-    left: 65px;
+    left: 250px;
     top: 307px;
-
     font-family: 'Playfair Display';
     font-style: normal;
     font-weight: 600;
@@ -94,7 +92,142 @@ h1{
     position: absolute;
     width: 573px;
     height: 410px;
-    left: 724px;
+    left: 1024px;
     top: 223px;
 
+}
+.post{
+    position: absolute;
+    width: 404px;
+    height: 67.64px;
+    left: 30px;
+    top: 0px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: justify;
+    text-transform: capitalize;
+    color: #000000;
+}
+.postdiv{
+    position: absolute;
+    position: absolute;
+    height: 900px;
+    width: 1700px;
+    left: 109px;
+    top: 707px;
+    background: #f3e6e0;
+    border-radius: .99%;
+}
+.inerPost{
+    position: absolute;
+    width: 1470px;
+    height: 700px;
+    left: 120px;
+    top: 150px;
+
+    background: #F7F6F4;
+    border-radius: 62px;
+}
+.textPost{
+    position: absolute;
+    width: 388.14px;
+    height: 43.18px;
+    left: 750px;
+    top: 150px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 32px;
+    color: #000000;
+}
+.texfPost{
+    position: absolute;
+    width: 600px;
+    height: 51.79px;
+    left: 750px;
+    top: 250px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 19px;
+    color: #000000;
+    line-height: 30px;
+}
+.taza{
+    position: absolute;
+    width: 260.37px;
+    height: 366.22px;
+    left: 250px;
+    top: 150px;
+}
+.abtme{
+    position: absolute;
+    width: 466px;
+    height: 96px;
+    left: 117px;
+    top: 1660px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 96px;
+    /* identical to box height */
+    color: #000000;
+}
+.abtsub{
+    position: absolute;
+    width: 423px;
+    height: 48px;
+    left: 210px;
+    top: 1750px;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    /* identical to box height */
+    color: #000000;
+}
+.abttext{
+    position: absolute;
+    width: 761px;
+    height: 416px;
+    left: 150px;
+    top: 1950px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #000000;
+}
+.hand{
+    position: absolute;
+    width: 265.32px;
+    height: 666.33px;
+    left: 1250px;
+    top: 2000px;
+}
+.rgreen{
+    position: absolute;
+    width: 308px;
+    height: 381px;
+    left: 1550px;
+    top: 1690px;
+    background: rgba(33, 119, 114, 0.6);
+    border-radius: 37px 111px 66px 102px;
+}
+.rred{
+    position: absolute;
+    width: 308px;
+    height: 381px;
+    left: 555px;
+    top: 2280px;
+    background: rgba(251, 120, 73, 0.109);
+    border-radius: 37px 111px 66px 102px;
 }
